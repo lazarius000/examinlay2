@@ -1,0 +1,35 @@
+.bg-image-header{
+    background-image: url('../img/banner-bg.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-middle{
+    background-image: url('../img/services-bg.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-purple{
+    background-color: rgb(41, 37, 71);
+
+}
+.bg-opacity{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.bg-opacity-start{
+    background-color: rgba(214, 69, 69, 0.678);
+}
+.bg-opacity-middle{
+    background-color: rgba(71, 48, 104, 0.452);
+}
+.bg-opacity-end{
+    background-color: rgba(91, 156, 241, 0.692);
+}
+.bg-gradient{
+    background-image: radial-gradient(circle, #eeeeee, #ebebeb, #e8e8e8, #e6e6e6, #e3e3e3, #dfdfdf, #dbdbdb, #d7d7d7, #d0d0d0, #cacaca, #c3c3c3, #bdbdbd);
+}
